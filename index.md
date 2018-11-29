@@ -1,4 +1,4 @@
-### Домашка 3
+### game RPS
 ```javascript
 function human(){
   var choose = prompt("Введите ваш вариант");
